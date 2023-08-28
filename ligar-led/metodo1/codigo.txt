@@ -1,0 +1,7 @@
+xmodmap
+
+xmodmap -e "add mod3 = Scroll_Lock"
+
+SE ESTE NÃO FUNCIONAR TENTE ESSE DO LINK A BAIXO
+
+"https://youtube.com/shorts/332HMbfizyY?si=a7Rmcc5ngFKEz2ci"
