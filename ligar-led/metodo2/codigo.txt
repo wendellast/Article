@@ -6,3 +6,5 @@ sudo brightnessctl --device='input5::scrolllock' set 1
 
 
 O 'INPUT5' SE REFERE AO INPUT DO Scroll_Lock QUE VOCÊ VER USANDO O COMANDO 'brightnessctl -l'
+
+LINK DO ARTIGO PASSO A PASSO: https://github.com/wendellast/meta.git
